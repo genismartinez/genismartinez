@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [genismartinez.com](genismartinez.com)
 
-- 📝 I regularly write articles on [genismartinez.com](genismartinez.com)
+- 📝 I regularly write articles on [genismartinez.com](aipertots.es)
 
 - 💬 Ask me about **C, Java, Python, Security, etc.**
 
